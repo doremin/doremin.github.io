@@ -6,5 +6,5 @@ _site
 Gemfile.lock
 .jekyll-cache
 
-#for Jetbrains
-.idea/
+# VsCode
+.vscode/*

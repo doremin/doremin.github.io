@@ -1,7 +1,10 @@
 *.gem
 .bundle
-.DS_Store
+**/.DS_Store
 .sass-cache
 _site
 Gemfile.lock
 .jekyll-cache
+
+#for Jetbrains
+.idea/

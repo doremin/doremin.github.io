@@ -16,7 +16,7 @@ tags: [The Elements of Computing Systems, CE]
 |1, 1|0|
 
 ### NOT 게이트
-NAND(0, 0) => 1, NAND(1, 1) => 0 임을 위의 표에서 알 수 있다.
+NAND(0, 0) => 1, NAND(1, 1) => 0 임을 위의 표에서 알 수 있다. 
 ∴ NAND(A, A) => A'
 
 ![NANDToNOT](/assets/images/2020-12-28/2020-12-28-1.png)

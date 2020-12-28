@@ -30,9 +30,6 @@ plugins:
 permalink:      /:year-:month-:day/:title
 paginate:       5
 
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
 # Remote Theme
 remote_theme : chesterhow/tale
 

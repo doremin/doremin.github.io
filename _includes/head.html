@@ -20,4 +20,7 @@
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+  {% if page.use_math %}
+  {% include mathjax_support.html %}
+  {% endif %}
 </head>

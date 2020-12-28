@@ -3,6 +3,7 @@ layout: post
 title:  "The Elements of Computing Systems - 1"
 author: "doremin"
 tags: [The Elements of Computing Systems, CE]
+use_math: true
 ---
 
 ## NAND 게이트로 NOT, AND, OR, XOR 게이트 만들기

@@ -27,7 +27,7 @@ NAND(0, 0) => 1, NAND(1, 1) => 0 임을 위의 표에서 알 수 있다.
 
 ![NANDToAND](/assets/images/2020-12-28/2020-12-28-2.png)
 
-### Or 게이트
+### OR 게이트
 
 ![NANDToOR‹](/assets/images/2020-12-28/2020-12-28-6.png)
 

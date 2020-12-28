@@ -9,7 +9,7 @@ tags: [The Elements of Computing Systems, CE]
 ### NAND 게이트 진리표
 
 |Input (A, B)|Output|
-|--|--|
+|:--:|:--:|
 |0, 0|1|
 |0, 1|1|
 |1, 0|1|
@@ -30,6 +30,7 @@ $$
     ∴ NOT(NAND(A,\ B)) = AND(A,\ B)
 \end{aligned}
 $$
+
 ![NANDToAND](/assets/images/2020-12-28-2.png)
 
 ### Or 게이트
@@ -42,6 +43,7 @@ $$
     ∴ NAND(NOT(A),\ NOT(B)) = OR(A,\ B)
 \end{aligned}
 $$
+
 ![NANDToOR](/assets/images/2020-12-28-3.png)
 
 ### XOR
@@ -57,4 +59,5 @@ $$
     ∴ NAND(NAND(NOT(A),\ B), NAND(A,\ NOT(B))) = XOR(A,\ B)
 \end{aligned} 
 $$
+
 ![NANDToXOR](/assets/images/2020-12-28-4.png)

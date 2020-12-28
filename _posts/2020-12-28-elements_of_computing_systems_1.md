@@ -24,13 +24,13 @@ NAND(0, 0) => 1, NAND(1, 1) => 0 임을 위의 표에서 알 수 있다.
 
 ### AND 게이트
 
-$
+$$
 \begin{aligned}
 NAND(A,  B) => (A•B)'   \\
 AND(A,  B) => A•B  \\
 ∴ NOT(NAND(A,  B)) = AND(A, B)
 \end{aligned}
-$
+$$
 
 ![NANDToAND](/assets/images/2020-12-28-2.png)
 

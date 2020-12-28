@@ -19,22 +19,22 @@ tags: [The Elements of Computing Systems, CE]
 NAND(0, 0) => 1, NAND(1, 1) => 0 임을 위의 표에서 알 수 있다.
 ∴ NAND(A, A) => A'
 
-![NANDToNOT](/assets/images/2020-12-28-1.png)
+![NANDToNOT](/assets/images/2020-12-28/2020-12-28-1.png)
 
 ### AND 게이트
 
-![NANDToAND](/assets/images/2020-12-28-5.png)
+![NANDToAND](/assets/images/2020-12-28/2020-12-28-5.png)
 
-![NANDToAND](/assets/images/2020-12-28-2.png)
+![NANDToAND](/assets/images/2020-12-28/2020-12-28-2.png)
 
 ### Or 게이트
 
-![NANDToOR‹](/assets/images/2020-12-28-6.png)
+![NANDToOR‹](/assets/images/2020-12-28/2020-12-28-6.png)
 
-![NANDToOR](/assets/images/2020-12-28-3.png)
+![NANDToOR](/assets/images/2020-12-28/2020-12-28-3.png)
 
 ### XOR
 
-![NANDToXOR](/assets/images/2020-12-28-7.png)
+![NANDToXOR](/assets/images/2020-12-28/2020-12-28-7.png)
 
-![NANDToXOR](/assets/images/2020-12-28-4.png)
+![NANDToXOR](/assets/images/2020-12-28/2020-12-28-4.png)

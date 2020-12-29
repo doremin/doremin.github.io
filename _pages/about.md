@@ -5,4 +5,4 @@ author: "doremin"
 permalink: /about/
 ---
 
-Major in CS in Kookmin Univ.
+Majoring in CS.

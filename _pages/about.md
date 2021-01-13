@@ -6,13 +6,10 @@ permalink: /about/
 ---
 
 ## Github
-[https://github.com/doremin](https://github.com/doremin)
+<https://github.com/doremin>
 
 ## Email
-[doremin98@gmail.com](doremin98@gmail.com)
-
-## Blog
-[https://doremin.github.io](https://doremin.github.io)
+<doremin98@gmail.com>
 
 ## Education
 Kookmin Univ. Majoring in CS 2017-

@@ -20,3 +20,7 @@ Kookmin Univ. Majoring in CS 2017-
     * Swift
     * Moya
     * SnapKit
+### 2021 PlatB
+* iOS Application
+    * Swift
+    * RxSwift

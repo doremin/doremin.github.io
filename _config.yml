@@ -13,6 +13,8 @@ author:
 markdown:       kramdown
 kramdown:
   math_engine: mathjax
+  math_engine_opts:
+    preview: false
 include:
   - _pages
 

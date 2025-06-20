@@ -11,6 +11,8 @@ author:
 
 # Build settings
 markdown:       kramdown
+kramdown:
+  math_engine: mathjax
 include:
   - _pages
 

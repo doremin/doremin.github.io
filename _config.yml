@@ -32,7 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       10
 
 # Remote Theme
 remote_theme : chesterhow/tale
